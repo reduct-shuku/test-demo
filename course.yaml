@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "course_id": "course-972e4250-750",
+  "type": "official",
+  "title": "测试自动创建github仓库",
+  "description": "测试自动创建github仓库",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html"
+}
